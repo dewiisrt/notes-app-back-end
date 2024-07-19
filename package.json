@@ -1,0 +1,20 @@
+{
+    "name": "notes-app-back-end",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server.js",
+        "lint": "eslint ./scr"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.1.4"
+    },
+    "dependencies": {
+        "eslint": "^9.7.0",
+        "newman": "^6.1.3"
+    }
+}
